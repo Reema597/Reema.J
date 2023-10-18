@@ -1,0 +1,23 @@
+.button
+{
+	padding:5px;
+
+}
+h1 {text-align: center;}
+p {text-align: center;}
+body {
+  background-image: url('https://p1.pxfuel.com/preview/618/304/849/pen-writing-ink-pen-letter-correspondence-report.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.lblform
+{
+  font-size:25px ;
+}
+.formdiv
+{
+  width:50%;
+  margin-left: 25%;
+border:3px solid black;
+}
